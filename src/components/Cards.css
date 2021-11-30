@@ -1,6 +1,8 @@
 .cards {
   padding: 4rem;
-  background: #fff;
+  background: url('/images/home.jpg');
+  background-color:cornflowerblue;
+  color: #fff;
 }
 
 h1 {
